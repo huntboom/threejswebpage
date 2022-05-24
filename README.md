@@ -1,2 +1,0 @@
-# threejsportfolio
-# threejswebpage
